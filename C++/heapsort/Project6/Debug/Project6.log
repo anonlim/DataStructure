@@ -1,0 +1,12 @@
+﻿  소스.cpp
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Project6\소스.cpp(9,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Project6\소스.cpp(10,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Project6\소스.cpp(11,46): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Project6\소스.cpp(12,46): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Project6\소스.cpp(13,48): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Project6\소스.cpp(14,46): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Project6\소스.cpp(15,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Project6\소스.cpp(16,46): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Project6\소스.cpp(17,47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Project6\소스.cpp(18,48): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Project6.vcxproj -> C:\Users\User\Desktop\21.09.01~\자구\1207\Project6\Debug\Project6.exe

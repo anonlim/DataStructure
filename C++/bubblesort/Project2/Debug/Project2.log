@@ -1,0 +1,7 @@
+﻿  Student.cpp
+  Swap.cpp
+  소스.cpp
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project2\Project2\소스.cpp(9,54): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\User\Desktop\21.09.01~\자구\1207\Project2\Project2\소스.cpp(10,54): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  Project2.vcxproj -> C:\Users\User\Desktop\21.09.01~\자구\1207\Project2\Debug\Project2.exe
